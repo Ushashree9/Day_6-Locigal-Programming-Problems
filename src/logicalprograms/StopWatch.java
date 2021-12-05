@@ -3,7 +3,6 @@ package logicalprograms;
 import java.util.Scanner;
 
 public class StopWatch {
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		double dif;
 		Scanner scn = new Scanner(System.in);
